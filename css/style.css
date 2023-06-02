@@ -130,6 +130,7 @@ section{
 }
 
 
+
 .home-content{
     max-width: 60rem;
     z-index: 1;
@@ -1020,6 +1021,13 @@ html{
 }
 @media (max-width: 530px){
 
+    #home p{
+        margin-left: 12rem;
+      
+        text-align: left;
+       margin-top: 1rem ;
+       margin-bottom: 1rem;
+    }
 
     
 .home{

@@ -1022,9 +1022,9 @@ html{
 @media (max-width: 530px){
 
     #home p{
-        margin-left: 12rem;
-      
-        text-align: left;
+       
+      margin-left: 3.5rem;
+        
        margin-top: 1rem ;
        margin-bottom: 1rem;
     }

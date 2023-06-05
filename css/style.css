@@ -758,7 +758,6 @@ width: 100%;
 }
 
 
-
 @media (max-width: 1250px) {
     html{
         font-size: 55%;
@@ -1023,17 +1022,19 @@ html{
 @media (max-width: 530px){
 
     #home p{
-       
-      margin-left: 3.5rem;
+        margin-left: 12rem;
+      
         
        margin-top: 1rem ;
        margin-bottom: 1rem;
     }
-
-    .btn-box .btn{
-        position:center;
-        margin-left: 10rem;
-    }
+.btn-box .btn{
+    margin-left: 10rem;
+}
+    
+.btn-box.btns .btn{
+    margin-left: 0.2rem;
+}
 .home{
 
     justify-content: center;
